@@ -3,7 +3,7 @@ body.index {
     display: grid;
     place-content: center;
     height: 100vh;
-    background-image: url("../images/bg2.jpeg");
+    background-image: url("../images/bg4.jpg");
 }
 body.error {
     display: grid;
@@ -13,8 +13,9 @@ body.error {
     
 }
 
+h1,
 h3 {
-    color: var(--white);
+    background-color: var(--white);
 }
 
 p {

@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/bg1.avif"); background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 2rem;
+    background-color: #fff;
+    margin-top: 1rem;
+}
+
+h1{
+    color: #fff;
+}
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background: #333;
+    color: #fff;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+}
+
+img {
+    max-width: 300px;
+    align-self: center;
+}
