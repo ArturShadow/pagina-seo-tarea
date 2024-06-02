@@ -1,0 +1,4 @@
+Options All -Indexes
+ 
+ErrorDocument 404 /pagina-seo/custom-errrors/404.html
+ErrorDocument 403 /pagina-seo/custom-errrors/403.html

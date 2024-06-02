@@ -1,0 +1,22 @@
+@import url(./variables.css);
+body.index {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    background-image: url("../images/bg2.jpeg");
+}
+body.error {
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    background-image: url("../images/bg1.avif");
+    
+}
+
+h3 {
+    color: var(--white);
+}
+
+p {
+    color: var(--white);
+}
