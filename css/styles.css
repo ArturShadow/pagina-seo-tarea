@@ -15,9 +15,14 @@ body.error {
 
 h1,
 h3 {
-    background-color: var(--white);
+    color: var(--white);
 }
 
 p {
     color: var(--white);
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
 }
